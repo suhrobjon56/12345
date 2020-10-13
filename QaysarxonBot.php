@@ -1,8 +1,8 @@
 <?php
 ob_start();
-define('API_KEY', 'token');
+define('API_KEY', '1352792638:AAEaKe7z1O1Qw1paQGuBZMobeUqgLJQKJLM');
 //tokenni yozing
-$admin = "961624783"; 
+$admin = "1148407"; 
 //ozizni id raqamizni yozing
 
 //ozizni id raqamizni yozing
@@ -1241,3 +1241,4 @@ $replyik = $message->reply_to_message->text;
         }
       }
     }
+?>
